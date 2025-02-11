@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🏪 I’m currently working on Swift Shoppers 
-- 🏫 I’m currently learning Web 3
+- 🏫 I’m currently learning Artificial intelligence and Machine learning 
 - 📫 How to reach me: manmohanwable0@gmail.com
 
 <!--
